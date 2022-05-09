@@ -1,4 +1,7 @@
-# MS-EMD
+# Few-shot font style transfer with multiple style encoders
+This repository contains the code for the paper:
+Few-shot font style transfer with multiple style encoders.
+https://www.sciengine.com/publisher/scp/journal/SCIS/doi/10.1007/s11432-021-3435-8
 ### Environment
 TensorFlow=2.3
 Python=3.8
